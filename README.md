@@ -1,6 +1,8 @@
 # Presentación
 
-## Estudiante: _COMPLETAR CON TU NOMBRE_
+## Estudiante: Denise Deutsch Amarfil
+
+Helado de menta granizada, piza de anana y pandulce con frutas
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
